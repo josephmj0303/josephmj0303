@@ -166,7 +166,7 @@ I specialize in designing and operating **production-grade DevOps platforms** wi
 ## 📬 Connect With Me
 
 * 🔗 GitHub: https://github.com/josephmj0303
-* 🔗 LinkedIn: *(Add your LinkedIn link here)*
+* 🔗 LinkedIn: www.linkedin.com/in/josephmj-devops
 
 ---
 
