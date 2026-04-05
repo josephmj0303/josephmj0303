@@ -127,6 +127,29 @@ I specialize in designing and operating **production-grade DevOps platforms** wi
 * 📊 **Monitoring Stack** — Prometheus + Grafana
 
 👉 Check out my pinned repositories below for full implementations.
+**Emart DevOps Platform**
+👉 Repositories
+- [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
+- [emart-gitops](https://github.com/josephmj0303/emart-gitops)
+
+**AWS EKS Microservices Platform**
+👉 Repository
+- [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
+
+**Cloud-Native E-Commerce (AWS)**
+👉 Repository
+- [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
+
+**GitOps EKS Platform**
+👉 Repositories
+* [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
+* [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
+* [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
+
+**Monitoring Stack**
+👉 Repository
+- [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+
 
 ---
 
