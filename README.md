@@ -1,3 +1,26 @@
+## 🧰 Tools & Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josephmj0303&layout=compact&theme=radical)
+
+
+
+
+
 # 👋 Hi, I'm Joseph
 
 🚀 **DevOps Engineer | Cloud-Native | Kubernetes | AWS | GitOps**
