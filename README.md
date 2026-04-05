@@ -1,165 +1,103 @@
-## 🧰 Tools & Technologies
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josephmj0303&layout=compact&theme=radical)
-
-
-
-
-
 # 👋 Hi, I'm Joseph
 
-🚀 **DevOps Engineer | Cloud-Native | Kubernetes | AWS | GitOps**
+🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
 
-I specialize in designing and operating **production-grade DevOps platforms** with a strong focus on **automation, scalability, and reliability**.
+I design and build **production-grade cloud-native platforms** with a focus on
+**automation, scalability, reliability, and observability**.
+
+---
+
+## 🧰 Tools & Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge\&logo=argo\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 
 ---
 
 ## 🧠 What I Do
 
-* Build and manage **cloud-native infrastructure on AWS & Azure**
+* Build and manage **cloud-native infrastructure (AWS & Azure)**
 * Design **Kubernetes-based microservices platforms**
 * Implement **CI/CD pipelines & GitOps workflows**
 * Automate infrastructure using **Terraform**
-* Set up **monitoring, logging, and alerting systems**
+* Implement **monitoring, logging, and alerting systems**
 
 ---
 
-## ⚙️ Tech Stack
+## 🏗️ Featured Projects (Best Work)
 
-### ☁️ Cloud Platforms
+### 🔥 Emart DevOps Platform
 
-* AWS (EC2, EKS, S3, CloudFront, RDS, ALB, Auto Scaling)
-* Azure (PaaS Services)
+**Kubernetes + GitOps + CI/CD + Observability**
 
-### 🐳 Containers & Orchestration
+* Microservices deployed on Kubernetes (k3s)
+* GitOps workflow using ArgoCD
+* CI/CD pipelines using GitHub Actions
 
-* Docker
-* Kubernetes (EKS, k3s)
-* Helm
+🔗
 
-### 🔄 CI/CD & GitOps
-
-* GitHub Actions
-* AWS CodePipeline & CodeBuild
-* ArgoCD
-
-### 🏗️ Infrastructure as Code
-
-* Terraform
-
-### 📊 Monitoring & Observability
-
-* Prometheus
-* Grafana
-* Alertmanager
-
-### 🌐 Web & Networking
-
-* Nginx
-* Load Balancing (ALB, Ingress)
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-
-### 📦 Messaging & Caching
-
-* RabbitMQ
-* Memcached
-
-### 🐧 OS & Scripting
-
-* Linux
-* Bash
+* [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
+* [emart-gitops](https://github.com/josephmj0303/emart-gitops)
 
 ---
 
-## 🏗️ Featured Work
+### ☁️ AWS EKS Microservices Platform
 
-### 🔹 DevOps Platform Engineering
+**Terraform + EKS + CI/CD**
 
-* Kubernetes-based microservices platforms
-* GitOps-driven deployments using ArgoCD
-* Infrastructure provisioning using Terraform
+* Infrastructure provisioned using Terraform
+* ASP.NET microservices deployed on EKS
+* CI/CD integrated with GitHub Actions
 
-### 🔹 Cloud Architecture
+🔗
 
-* Highly available AWS architectures
-* Auto Scaling & Load Balancing
-* CDN optimization with CloudFront
-
-### 🔹 CI/CD Automation
-
-* End-to-end pipelines (build → test → deploy)
-* Multi-environment deployments
-* Integration with container registries
-
-### 🔹 Observability
-
-* Metrics collection with Prometheus
-* Visualization with Grafana
-* Alerting with Alertmanager
+* [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
 
 ---
 
-## 📌 Highlight Projects
+### 🌐 Cloud-Native E-Commerce (AWS)
 
-* 🔥 **Emart DevOps Platform** — Kubernetes + GitOps + CI/CD
-* ☁️ **AWS EKS Microservices Platform** — Terraform + EKS
-* 🌐 **Cloud-Native E-Commerce (AWS)** — HA architecture
-* 🔄 **GitOps EKS Platform** — Full GitOps lifecycle
-* 📊 **Monitoring Stack** — Prometheus + Grafana
+**Highly Available Architecture**
 
-👉 Check out my pinned repositories below for full implementations.
+* ALB + Auto Scaling + CloudFront + RDS
+* Scalable and resilient backend design
 
-**Emart DevOps Platform**
+🔗
 
-👉 Repositories
-- [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
-- [emart-gitops](https://github.com/josephmj0303/emart-gitops)
+* [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
 
-**AWS EKS Microservices Platform**
+---
 
-👉 Repository
-- [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
+### 🔄 GitOps EKS Platform
 
-**Cloud-Native E-Commerce (AWS)**
+**Full GitOps Lifecycle (Terraform + Helm + ArgoCD)**
 
-👉 Repository
-- [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
+🔗
 
-**GitOps EKS Platform**
-
-👉 Repositories
 * [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
 * [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
 * [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
 
-**Monitoring Stack**
+---
 
-👉 Repository
-- [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+### 📊 Monitoring & Observability
 
+**Prometheus + Grafana + Alertmanager**
+
+🔗
+
+* [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
 
 ---
 
-## 📈 DevOps Approach
+## ⚙️ DevOps Approach
 
 * Infrastructure as Code first
 * Automation over manual processes
@@ -169,17 +107,24 @@ I specialize in designing and operating **production-grade DevOps platforms** wi
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josephmj0303\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303\&theme=radical)
+
+---
+
 ## 📬 Connect With Me
 
 * 🔗 GitHub: https://github.com/josephmj0303
-* 🔗 LinkedIn: www.linkedin.com/in/josephmj-devops
+* 🔗 LinkedIn: https://www.linkedin.com/in/josephmj-devops
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Final Note
 
-I focus on building **real-world DevOps systems**, not just demos — from infrastructure provisioning to production deployment and monitoring.
+This profile focuses on **real-world DevOps engineering** —
+from infrastructure provisioning to production deployment and monitoring.
 
----
-
-⭐ *Always learning, building, and improving cloud-native systems*
+⭐ Always building scalable, automated, and reliable systems
