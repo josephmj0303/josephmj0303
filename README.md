@@ -66,7 +66,7 @@ I design and build **production-grade cloud-native platforms** with a focus on
 
 **Highly Available Architecture**
 
-* ALB + Auto Scaling + CloudFront + RDS
+* CloudFront + ALB + S3 + EC2 + RDS
 * Scalable and resilient backend design
 
 🔗
