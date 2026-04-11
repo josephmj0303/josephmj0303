@@ -41,8 +41,7 @@ I design and build **production-grade cloud-native platforms** with a focus on
 * GitOps workflow using ArgoCD
 * CI/CD pipelines using GitHub Actions
 
-🔗
-
+🔗 
 * [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
 * [emart-gitops](https://github.com/josephmj0303/emart-gitops)
 
@@ -57,7 +56,6 @@ I design and build **production-grade cloud-native platforms** with a focus on
 * CI/CD integrated with GitHub Actions
 
 🔗
-
 * [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
 
 ---
@@ -70,7 +68,6 @@ I design and build **production-grade cloud-native platforms** with a focus on
 * Scalable and resilient backend design
 
 🔗
-
 * [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
 
 ---
@@ -80,7 +77,6 @@ I design and build **production-grade cloud-native platforms** with a focus on
 **Full GitOps Lifecycle (Terraform + Helm + ArgoCD)**
 
 🔗
-
 * [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
 * [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
 * [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
@@ -92,7 +88,6 @@ I design and build **production-grade cloud-native platforms** with a focus on
 **Prometheus + Grafana + Alertmanager**
 
 🔗
-
 * [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
 
 ---
