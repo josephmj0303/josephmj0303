@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Joseph
 
-🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
-
-I design and build **production-grade cloud-native platforms** with a focus on
-**automation, scalability, reliability, and observability**.
-
----
-
-## 🧰 Tools & Technologies
+## 🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
@@ -18,6 +11,14 @@ I design and build **production-grade cloud-native platforms** with a focus on
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+
+I design and build **production-grade cloud platforms** focused on:
+
+⚡ Automation  
+📈 Scalability  
+🛡️ Reliability  
+📊 Observability 
 
 ---
 
@@ -31,87 +32,117 @@ I design and build **production-grade cloud-native platforms** with a focus on
 
 ---
 
-## 🏗️ Featured Projects (Best Work)
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infra
+AWS • Azure • Terraform • VPC • IAM • EKS
+
+### ⚙️ Containers & Orchestration
+Docker • Kubernetes (k3s, EKS) • Helm
+
+### 🔄 CI/CD & GitOps
+GitHub Actions • ArgoCD • GitOps workflows
+
+### 📊 Observability
+Prometheus • Grafana • Alertmanager • Logging
+
+---
+
+## 🏗️ Featured Projects (Real DevOps Work)
 
 ### 🔥 Emart DevOps Platform
+**Kubernetes | GitOps | CI/CD | Observability**
 
-**Kubernetes + GitOps + CI/CD + Observability**
+👉 Full microservices platform deployed on Kubernetes
 
-* Microservices deployed on Kubernetes (k3s)
-* GitOps workflow using ArgoCD
-* CI/CD pipelines using GitHub Actions
+✔️ GitOps deployment using ArgoCD  
+✔️ CI/CD pipelines using GitHub Actions  
+✔️ Monitoring with Prometheus & Grafana  
 
-🔗 
-* [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
-* [emart-gitops](https://github.com/josephmj0303/emart-gitops)
+🔗 https://github.com/josephmj0303/emart-devops-platform  
+🔗 https://github.com/josephmj0303/emart-gitops  
 
 ---
 
 ### ☁️ AWS EKS Microservices Platform
+**Terraform | EKS | CI/CD**
 
-**Terraform + EKS + CI/CD**
+👉 Production-style AWS infrastructure + app deployment
 
-* Infrastructure provisioned using Terraform
-* ASP.NET microservices deployed on EKS
-* CI/CD integrated with GitHub Actions
+✔️ Infrastructure provisioned using Terraform  
+✔️ ASP.NET microservices on EKS  
+✔️ CI/CD pipelines integrated  
 
-🔗
-* [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
+🔗 https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform  
 
 ---
 
-### 🌐 Cloud-Native E-Commerce (AWS)
+### 🌐 Cloud-Native E-Commerce Platform
+**Highly Available AWS Architecture**
 
-**Highly Available Architecture**
+👉 Designed for scalability & fault tolerance
 
-* CloudFront + ALB + S3 + EC2 + RDS
-* Scalable and resilient backend design
+✔️ CloudFront + ALB + EC2 + RDS + S3  
+✔️ Multi-tier architecture  
+✔️ High availability design  
 
-🔗
-* [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
+🔗 https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform  
 
 ---
 
 ### 🔄 GitOps EKS Platform
+**Terraform + Helm + ArgoCD**
 
-**Full GitOps Lifecycle (Terraform + Helm + ArgoCD)**
+👉 Full GitOps lifecycle implementation
 
-🔗
-* [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
-* [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
-* [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
+✔️ Infra + App deployment separation  
+✔️ Helm-based deployments  
+✔️ ArgoCD continuous delivery  
 
----
-
-### 📊 Monitoring & Observability
-
-**Prometheus + Grafana + Alertmanager**
-
-🔗
-* [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+🔗 https://github.com/josephmj0303/vprofile-gitops-eks-platform  
+🔗 https://github.com/josephmj0303/vprofile-gitops-app-deploy  
+🔗 https://github.com/josephmj0303/vprofile-gitops-iac  
 
 ---
 
-## ⚙️ DevOps Approach
+### 📊 Monitoring & Observability Stack
 
-* Infrastructure as Code first
-* Automation over manual processes
-* GitOps-driven deployments
-* Observability as a core requirement
-* Scalable and resilient system design
+👉 Production-grade monitoring setup
+
+✔️ Prometheus metrics collection  
+✔️ Grafana dashboards  
+✔️ Alertmanager integration  
+
+🔗 https://github.com/josephmj0303/monitoring-and-observability  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical) 
+![Github_Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephmj0303&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephmj0303&theme=react-dark)
+
+---
+
+## ⚙️ DevOps Philosophy
+
+✔️ Infrastructure as Code first  
+✔️ Everything automated  
+✔️ Git as the source of truth  
+✔️ Observability is mandatory, not optional  
+✔️ Design for failure and scale  
 
 ---
 
 ## 📬 Connect With Me
 
-* 🔗 GitHub: https://github.com/josephmj0303
-* 🔗 LinkedIn: https://www.linkedin.com/in/josephmj-devops
+🔗 GitHub: https://github.com/josephmj0303  
+🔗 LinkedIn: https://www.linkedin.com/in/josephmj-devops  
 
 ---
 
