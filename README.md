@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joseph
+https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app# 👋 Hi, I'm Joseph
 
 🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
 
@@ -104,9 +104,9 @@ I design and build **production-grade cloud-native platforms** with a focus on
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fpky2xzfx-josephmj0303s-projects.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical) 
-![Top Langs](https://github-readme-stats-fpky2xzfx-josephmj0303s-projects.vercel.app/api/top-langs/?username=josephmj0303&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app/api/top-langs/?username=josephmj0303&layout=compact&theme=radical)
 
 ---
 
