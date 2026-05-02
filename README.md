@@ -104,12 +104,7 @@ I design and build **production-grade cloud-native platforms** with a focus on
 
 ## 📊 GitHub Stats
 
-![GitHub stats](assets/github-stats.svg)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical) 
-
-![Top Langs](assets/top-langs.svg)
-
 
 ---
 
