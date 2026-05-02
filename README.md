@@ -1,4 +1,4 @@
-https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app# 👋 Hi, I'm Joseph
+👋 Hi, I'm Joseph
 
 🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
 
