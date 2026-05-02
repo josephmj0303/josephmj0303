@@ -1,4 +1,4 @@
-👋 Hi, I'm Joseph
+#👋 Hi, I'm Joseph
 
 🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
 
