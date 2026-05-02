@@ -21,10 +21,9 @@ jobs:
           mkdir -p assets
 
           curl -L -o assets/github-stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true&token=${GH_TOKEN}"
-
+            "https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true"
           curl -L -o assets/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical&token=${GH_TOKEN}"
+            "https://github-readme-stats-77trj6dqx-josephmj0303s-projects.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical"
 
           # Validate SVG
           grep -q "<svg" assets/github-stats.svg || (echo "Invalid github-stats.svg" && exit 1)
