@@ -20,26 +20,16 @@ jobs:
         run: |
           mkdir -p assets
 
-          # Fetch stats
-          curl -H "Authorization: token $GH_TOKEN" -L \
-            -o assets/github-stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true"
+          curl -L -o assets/github-stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true&token=${GH_TOKEN}"
 
-          curl -H "Authorization: token $GH_TOKEN" -L \
-            -o assets/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical"
+          curl -L -o assets/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical&token=${GH_TOKEN}"
 
           # Validate SVG
-          if ! grep -q "<svg" assets/github-stats.svg; then
-            echo "Invalid github-stats.svg"
-            exit 1
-          fi
-
-          if ! grep -q "<svg" assets/top-langs.svg; then
-            echo "Invalid top-langs.svg"
-            exit 1
-          fi
-
+          grep -q "<svg" assets/github-stats.svg || (echo "Invalid github-stats.svg" && exit 1)
+          grep -q "<svg" assets/top-langs.svg || (echo "Invalid top-langs.svg" && exit 1)
+          
       - name: Commit and push
         run: |
           git config --global user.name "github-actions"
