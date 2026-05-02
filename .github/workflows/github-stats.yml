@@ -19,13 +19,32 @@ jobs:
       - name: Generate GitHub Stats
         run: |
           mkdir -p assets
-          curl -L -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true"
-          curl -L -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical"
+
+          # Fetch stats
+          curl -H "Authorization: token $GH_TOKEN" -L \
+            -o assets/github-stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=josephmj0303&show_icons=true&theme=radical&count_private=true"
+
+          curl -H "Authorization: token $GH_TOKEN" -L \
+            -o assets/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=josephmj0303&layout=compact&theme=radical"
+
+          # Validate SVG
+          if ! grep -q "<svg" assets/github-stats.svg; then
+            echo "Invalid github-stats.svg"
+            exit 1
+          fi
+
+          if ! grep -q "<svg" assets/top-langs.svg; then
+            echo "Invalid top-langs.svg"
+            exit 1
+          fi
 
       - name: Commit and push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add assets/*.svg
-          git commit -m "update stats" || echo "No changes"
+          
+          git diff --cached --quiet || git commit -m "update stats"
           git push
