@@ -91,13 +91,13 @@ Prometheus • Grafana • Alertmanager • Logging
 ---
 
 ### 🔄 GitOps EKS Platform
-**Terraform + Helm + ArgoCD**
+**GitHub Actions + Terraform + Docker + Helm**
 
 👉 Full GitOps lifecycle implementation
 
 ✔️ Infra + App deployment separation  
 ✔️ Helm-based deployments  
-✔️ ArgoCD continuous delivery  
+✔️ Code quality analysis using SonarCloud  
 
 🔗 https://github.com/josephmj0303/vprofile-gitops-eks-platform  
 🔗 https://github.com/josephmj0303/vprofile-gitops-app-deploy  
