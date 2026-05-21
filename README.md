@@ -123,10 +123,6 @@ Prometheus • Grafana • Alertmanager • Logging
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephmj0303&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephmj0303&theme=react-dark)
