@@ -1,125 +1,194 @@
-# 👋 Hi, I'm Joseph
+# 👋 Hi, I'm Joseph M J
 
-## 🚀 **DevOps Engineer | Kubernetes | AWS | Terraform | GitOps**
+## 🚀 DevOps Engineer | AWS · Azure · Kubernetes · Terraform · GitOps · CI/CD
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge\&logo=argo\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 I design and build **production-grade cloud platforms** focused on:
 
 ⚡ Automation  
 📈 Scalability  
 🛡️ Reliability  
-📊 Observability 
+📊 Observability
 
 ---
 
 ## 🧠 What I Do
 
-* Build and manage **cloud-native infrastructure (AWS & Azure)**
-* Design **Kubernetes-based microservices platforms**
-* Implement **CI/CD pipelines & GitOps workflows**
-* Automate infrastructure using **Terraform**
-* Implement **monitoring, logging, and alerting systems**
+- Build and manage **cloud-native infrastructure on AWS & Azure**
+- Design **Kubernetes-based microservices platforms** (EKS, k3s)
+- Implement **CI/CD pipelines & GitOps workflows** with ArgoCD
+- Automate infrastructure using **Terraform & Ansible**
+- Deploy and manage **Azure PaaS workloads** (App Service, PostgreSQL Flexible Server, Static Web Apps)
+- Implement **monitoring, logging, and alerting** with Prometheus, Grafana & CloudWatch
+- Enforce **container security scanning** with Trivy
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Freelance DevOps Engineer | Client Projects & Portfolio | Dec 2025 – Present |
+| DevOps Engineer | MTG TECHSOFT, Ranipet | Nov 2023 – Oct 2025 |
+| Cloud Administrator | B.C.M. Higher Secondary School, Dewas | May 2021 – Nov 2023 |
+| System Administrator | B.C.M. Prominent School, Dewas | Jul 2016 – Apr 2021 |
 
 ---
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud & Infra
-AWS • Azure • Terraform • VPC • IAM • EKS
+### ☁️ Cloud & Infrastructure
+AWS (EC2, EKS, ECS, S3, RDS, ALB, VPC, IAM, ECR, CloudFront, CloudWatch) • Azure (App Service, PostgreSQL Flexible Server, Static Web Apps, VNet, RBAC) • Terraform • Ansible
 
 ### ⚙️ Containers & Orchestration
-Docker • Kubernetes (k3s, EKS) • Helm
+Docker • Kubernetes (EKS, k3s) • Helm • Amazon ECR • Ingress Controllers (ALB, NGINX)
 
 ### 🔄 CI/CD & GitOps
-GitHub Actions • ArgoCD • GitOps workflows
+GitHub Actions • Jenkins • GitLab CI • ArgoCD • SonarQube • Nexus Repository
 
-### 📊 Observability
-Prometheus • Grafana • Alertmanager • Logging
+### 📊 Observability & Security
+Prometheus • Grafana • Alertmanager • CloudWatch • Trivy (Container Scanning)
+
+### 🖥️ OS, Scripting & Databases
+Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
 
 ---
 
-## 🏗️ Featured Projects (Real DevOps Work)
+## 🏗️ Featured Projects
 
 ### 🔥 Emart DevOps Platform
-**Kubernetes | GitOps | CI/CD | Observability**
+**Kubernetes (k3s) | GitOps | CI/CD | Observability | Trivy**
 
-👉 Full microservices platform deployed on Kubernetes
+Full microservices platform (Node.js, Java, Angular) deployed on k3s.
 
-✔️ GitOps deployment using ArgoCD  
-✔️ CI/CD pipelines using GitHub Actions  
+✔️ GitOps CD using ArgoCD with dedicated manifests repo  
+✔️ CI pipelines via GitHub Actions  
 ✔️ Monitoring with Prometheus & Grafana  
+✔️ Container security scanning with Trivy  
 
-🔗 https://github.com/josephmj0303/emart-devops-platform  
-🔗 https://github.com/josephmj0303/emart-gitops  
-
----
-
-### ☁️ AWS EKS Microservices Platform
-**Terraform | EKS | CI/CD**
-
-👉 Production-style AWS infrastructure + app deployment
-
-✔️ Infrastructure provisioned using Terraform  
-✔️ ASP.NET microservices on EKS  
-✔️ CI/CD pipelines integrated  
-
-🔗 https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform  
+🔗 [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform) · [emart-gitops](https://github.com/josephmj0303/emart-gitops)
 
 ---
 
-### 🌐 Cloud-Native E-Commerce Platform
-**Highly Available AWS Architecture**
+### 🔄 VProfile GitOps EKS Platform
+**GitHub Actions | Terraform | EKS | Helm | ECR | SonarCloud**
 
-👉 Designed for scalability & fault tolerance
+Full GitOps lifecycle with clean separation of IaC and app-deploy repos.
 
-✔️ CloudFront + ALB + EC2 + RDS + S3  
-✔️ Multi-tier architecture  
-✔️ High availability design  
+✔️ EKS cluster provisioned with Terraform  
+✔️ Helm-based deployments via GitHub Actions CI/CD  
+✔️ Container images built and stored in Amazon ECR with automated tagging  
+✔️ Code quality analysis with SonarCloud  
 
-🔗 https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform  
+🔗 [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform) · [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy) · [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
 
 ---
 
-### 🔄 GitOps EKS Platform
-**GitHub Actions + Terraform + Docker + Helm**
+### ☁️ AWS EKS .NET Microservices Platform
+**AWS EKS | Terraform | .NET Core | Prometheus | Grafana**
 
-👉 Full GitOps lifecycle implementation
+Production-style AWS infrastructure with containerised .NET microservices.
 
-✔️ Infra + App deployment separation  
-✔️ Helm-based deployments  
-✔️ Code quality analysis using SonarCloud  
+✔️ Terraform-provisioned VPC, RDS PostgreSQL, EKS cluster  
+✔️ ALB/NGINX Ingress for external traffic routing  
+✔️ GitHub Actions CI/CD for automated build and deploy  
+✔️ Prometheus + Grafana for cluster and application-level monitoring  
 
-🔗 https://github.com/josephmj0303/vprofile-gitops-eks-platform  
-🔗 https://github.com/josephmj0303/vprofile-gitops-app-deploy  
-🔗 https://github.com/josephmj0303/vprofile-gitops-iac  
+🔗 [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
+
+---
+
+### 🌐 AWS Cloud-Native E-Commerce Platform
+**EC2 | ALB | CloudFront | RDS | Terraform | GitHub Actions**
+
+Scalable, highly available AWS architecture designed for fault tolerance.
+
+✔️ EC2 Auto Scaling, ALB, S3 + CloudFront CDN, RDS PostgreSQL  
+✔️ Full Terraform IaC for all AWS resources  
+✔️ VPC with public/private subnets, security groups, NAT gateway  
+✔️ GitHub Actions CI/CD for zero-touch deployments  
+
+🔗 [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
+
+---
+
+### 🔵 Azure DevOps E-Commerce Platform
+**Azure PaaS | Terraform | GitHub Actions**
+
+Migrated production e-commerce from VPS (AlmaLinux + PostgreSQL) to Azure PaaS.
+
+✔️ Azure App Service, PostgreSQL Flexible Server, Static Web Apps via Terraform  
+✔️ GitHub Actions pipeline for automated build, test, and release  
+
+🔗 [ecommerce-azure-devops-platform](https://github.com/josephmj0303/ecommerce-azure-devops-platform)
+
+---
+
+### 🏗️ Jenkins + SonarQube + Nexus CI Pipeline
+**Jenkins | SonarQube | Nexus Repository | Slack**
+
+Production-style CI pipeline with quality gates and artifact management.
+
+✔️ Automated build → SonarQube quality gate → Nexus artifact publish → Slack alert  
+✔️ Quality gates enforce code coverage thresholds and block on vulnerability failures  
+✔️ Nexus Repository Manager configured for versioned artifact storage  
+
+🔗 [jenkins-sonarqube-nexus-ci](https://github.com/josephmj0303/jenkins-sonarqube-nexus-ci)
+
+---
+
+### 🌐 WordPress on Kubernetes (Helm + NGINX)
+**Kubernetes | Helm | NGINX Ingress | AWS | TLS**
+
+WordPress deployed on AWS Kubernetes using Helm and NGINX Ingress.
+
+✔️ Persistent storage via PVC for stateful workload management  
+✔️ TLS termination and custom domain routing via Kubernetes Ingress  
+
+🔗 [wordpress-k8s-helm-nginx](https://github.com/josephmj0303/wordpress-k8s-helm-nginx)
 
 ---
 
 ### 📊 Monitoring & Observability Stack
+**Prometheus | Grafana | Alertmanager | Python Flask**
 
-👉 Production-grade monitoring setup
+Production-grade monitoring setup for a Python Flask application.
 
-✔️ Prometheus metrics collection  
-✔️ Grafana dashboards  
-✔️ Alertmanager integration  
+✔️ Prometheus metrics collection and log aggregation  
+✔️ Custom Grafana dashboards for real-time visibility  
+✔️ Alertmanager rules for proactive multi-channel incident notification  
 
-🔗 https://github.com/josephmj0303/monitoring-and-observability  
+🔗 [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+
+---
+
+## 🎓 Certifications & Training
+
+- 🏅 AWS DevOps with Projects — Udemy
+- 🏅 Azure Administrator AZ-104 — Pragathi Technologies
+- 🏅 VMware vSphere ESXi & vCenter Administration — Udemy
+- 🏅 Computer Hardware & Networking — Jetking
 
 ---
 
 ## 📊 GitHub Stats
 
-![Github_Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
 
@@ -133,22 +202,24 @@ Prometheus • Grafana • Alertmanager • Logging
 
 ✔️ Infrastructure as Code first  
 ✔️ Everything automated  
-✔️ Git as the source of truth  
+✔️ Git as the single source of truth  
 ✔️ Observability is mandatory, not optional  
+✔️ Security built in, not bolted on  
 ✔️ Design for failure and scale  
 
 ---
 
 ## 📬 Connect With Me
 
-🔗 GitHub: https://github.com/josephmj0303  
-🔗 LinkedIn: https://www.linkedin.com/in/josephmj-devops  
+🔗 GitHub: [github.com/josephmj0303](https://github.com/josephmj0303)  
+🔗 LinkedIn: [linkedin.com/in/josephmj-devops](https://www.linkedin.com/in/josephmj-devops)  
+📧 josephmj333@gmail.com
 
 ---
 
 ## ⚡ Final Note
 
-This profile focuses on **real-world DevOps engineering** —
-from infrastructure provisioning to production deployment and monitoring.
+This profile reflects **real-world DevOps engineering** —
+from infrastructure provisioning to production deployment, security, and observability.
 
 ⭐ Always building scalable, automated, and reliable systems
