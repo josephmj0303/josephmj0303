@@ -1,33 +1,45 @@
-# 👋 Hi, I'm Joseph M J
+# 👋 Hi, I'm Joseph 
 
-## 🚀 DevOps Engineer | AWS · Azure · Kubernetes · Terraform · GitOps · CI/CD
+## 🚀 DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | GitOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge\&logo=argo\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 
-I design and build **production-grade cloud platforms** focused on:
+I am a DevOps Engineer with experience designing, automating, and deploying cloud-native applications and infrastructure across AWS and Azure environments.
 
-⚡ Automation  
-📈 Scalability  
-🛡️ Reliability  
-📊 Observability
+My work focuses on building scalable platforms using Kubernetes, Infrastructure as Code, CI/CD automation, GitOps, observability, and cloud-native best practices.
 
 ---
 
-## 🧠 What I Do
+# 💼 Professional Highlights
+
+### 🚀 Freelance DevOps Engineer (2025 – Present)
+- Managing a production-grade AWS e-commerce platform
+- Infrastructure provisioned using Terraform
+- GitHub Actions based CI/CD with zero-downtime deployments
+- CloudFront, ALB, EC2, RDS and VPC based architecture
+- Production support, monitoring and operational improvements
+
+
+### ⚙️ DevOps Engineer — MTG Techsoft (2023 – 2025)
+- Built CI/CD pipelines using GitHub Actions, Jenkins, SonarQube and Nexus
+- Deployed containerized applications on Kubernetes (EKS & k3s)
+- Implemented GitOps workflows using ArgoCD
+- Automated AWS and Azure infrastructure using Terraform
+- Implemented monitoring and alerting with Prometheus, Grafana and CloudWatch
+- Improved deployment consistency and reduced manual operational effort
+
+---
+
+# 🧠 What I Do
 
 - Build and manage **cloud-native infrastructure on AWS & Azure**
 - Design **Kubernetes-based microservices platforms** (EKS, k3s)
@@ -36,17 +48,6 @@ I design and build **production-grade cloud platforms** focused on:
 - Deploy and manage **Azure PaaS workloads** (App Service, PostgreSQL Flexible Server, Static Web Apps)
 - Implement **monitoring, logging, and alerting** with Prometheus, Grafana & CloudWatch
 - Enforce **container security scanning** with Trivy
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Freelance DevOps Engineer | Client Projects & Portfolio | Dec 2025 – Present |
-| DevOps Engineer | MTG TECHSOFT, Ranipet | Nov 2023 – Oct 2025 |
-| Cloud Administrator | B.C.M. Higher Secondary School, Dewas | May 2021 – Nov 2023 |
-| System Administrator | B.C.M. Prominent School, Dewas | Jul 2016 – Apr 2021 |
 
 ---
 
@@ -67,9 +68,22 @@ Prometheus • Grafana • Alertmanager • CloudWatch • Trivy (Container Scan
 ### 🖥️ OS, Scripting & Databases
 Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
-## 🏗️ Featured Projects
+# 🏗 Featured DevOps Projects
 
 ### 🔥 Emart DevOps Platform
 **Kubernetes (k3s) | GitOps | CI/CD | Observability | Trivy**
@@ -174,46 +188,66 @@ Production-grade monitoring setup for a Python Flask application.
 ✔️ Alertmanager rules for proactive multi-channel incident notification  
 
 🔗 [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+---
+
+# 🔐 Security Practices
+
+✔ Container vulnerability scanning using Trivy
+
+✔ Secure CI/CD pipelines
+
+✔ IAM and RBAC implementation
+
+✔ Infrastructure security best practices
+
+✔ GitOps-based deployment controls
+
+✔ Least privilege access principles
 
 ---
 
-## 🎓 Certifications & Training
+# 📜 Certifications & Training
 
-- 🏅 AWS DevOps with Projects — Udemy
-- 🏅 Azure Administrator AZ-104 — Pragathi Technologies
-- 🏅 VMware vSphere ESXi & vCenter Administration — Udemy
-- 🏅 Computer Hardware & Networking — Jetking
+🏆 AWS DevOps with Projects - Udemy
 
----
+🏆 Azure Administrator (AZ-104 Training) - Pragathi Technologies
 
-## 📊 GitHub Stats
+🏆 VMware vSphere ESXi & vCenter Administration - Udemy
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303&theme=radical)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephmj0303&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephmj0303&theme=react-dark)
+🏆 Computer Hardware & Networking - Jetking
 
 ---
 
-## ⚙️ DevOps Philosophy
+# 📊 GitHub Stats
 
-✔️ Infrastructure as Code first  
-✔️ Everything automated  
-✔️ Git as the single source of truth  
-✔️ Observability is mandatory, not optional  
-✔️ Security built in, not bolted on  
-✔️ Design for failure and scale  
+![Github\_Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephmj0303\&theme=radical)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephmj0303\&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephmj0303\&theme=react-dark)
 
 ---
 
-## 📬 Connect With Me
+# 🎯 Current Focus
 
-🔗 GitHub: [github.com/josephmj0303](https://github.com/josephmj0303)  
-🔗 LinkedIn: [linkedin.com/in/josephmj-devops](https://www.linkedin.com/in/josephmj-devops)  
-📧 josephmj333@gmail.com
+* Kubernetes Platform Engineering
+* GitOps & Continuous Delivery
+* AWS & Azure Cloud Infrastructure
+* Infrastructure as Code
+* Observability & Reliability Engineering
+* Production-grade DevOps Architectures
+
+---
+
+# 📬 Connect With Me
+
+🔗 GitHub: https://github.com/josephmj0303
+
+🔗 LinkedIn: https://www.linkedin.com/in/josephmj-devops
+
+📧 Email: [josephmj333@gmail.com](mailto:josephmj333@gmail.com)
 
 ---
 
