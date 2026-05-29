@@ -19,7 +19,7 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ---
 
-# 💼 Professional Highlights
+## 💼 Professional Highlights
 
 ### 🚀 Freelance DevOps Engineer (2025 – Present)
 - Managing a production-grade AWS e-commerce platform
@@ -39,7 +39,7 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ---
 
-# 🧠 What I Do
+## 🧠 What I Do
 
 - Build and manage **cloud-native infrastructure on AWS & Azure**
 - Design **Kubernetes-based microservices platforms** (EKS, k3s)
@@ -68,22 +68,9 @@ Prometheus • Grafana • Alertmanager • CloudWatch • Trivy (Container Scan
 ### 🖥️ OS, Scripting & Databases
 Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-# 🏗 Featured DevOps Projects
+## 🏗 Featured DevOps Projects
 
 ### 🔥 Emart DevOps Platform
 **Kubernetes (k3s) | GitOps | CI/CD | Observability | Trivy**
@@ -188,9 +175,10 @@ Production-grade monitoring setup for a Python Flask application.
 ✔️ Alertmanager rules for proactive multi-channel incident notification  
 
 🔗 [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
+
 ---
 
-# 🔐 Security Practices
+## 🔐 Security Practices
 
 ✔ Container vulnerability scanning using Trivy
 
@@ -206,7 +194,7 @@ Production-grade monitoring setup for a Python Flask application.
 
 ---
 
-# 📜 Certifications & Training
+## 📜 Certifications & Training
 
 🏆 AWS DevOps with Projects - Udemy
 
@@ -218,7 +206,7 @@ Production-grade monitoring setup for a Python Flask application.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Github\_Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephmj0303\&theme=radical)
 
@@ -230,7 +218,7 @@ Production-grade monitoring setup for a Python Flask application.
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 * Kubernetes Platform Engineering
 * GitOps & Continuous Delivery
@@ -241,7 +229,7 @@ Production-grade monitoring setup for a Python Flask application.
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
 🔗 GitHub: https://github.com/josephmj0303
 
