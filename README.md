@@ -13,7 +13,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 
-I am a DevOps Engineer with experience designing, automating, and deploying cloud-native applications and infrastructure across AWS and Azure environments.
+I am a DevOps Engineer with hands-on experience in designing, automating, and deploying cloud-native applications and infrastructure across AWS and Azure environments.
 
 My work focuses on building scalable platforms using Kubernetes, Infrastructure as Code, CI/CD automation, GitOps, observability, and cloud-native best practices.
 
