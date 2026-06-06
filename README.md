@@ -87,16 +87,17 @@ Full microservices platform (Node.js, Java, Angular) deployed on k3s.
 ---
 
 ### 🔄 VProfile GitOps EKS Platform
-**GitHub Actions | Terraform | EKS | Helm | ECR | SonarCloud**
+Terraform | AWS EKS | ArgoCD | GitHub Actions | Helm | Amazon ECR | SonarCloud | Slack
 
-Full GitOps lifecycle with clean separation of IaC and app-deploy repos.
+Production-grade GitOps platform implementing Infrastructure as Code, Continuous Delivery, and Kubernetes automation on AWS.
 
-✔️ EKS cluster provisioned with Terraform  
-✔️ Helm-based deployments via GitHub Actions CI/CD  
-✔️ Container images built and stored in Amazon ECR with automated tagging  
-✔️ Code quality analysis with SonarCloud  
+✔️ AWS EKS infrastructure provisioned and managed with Terraform  
+✔️ GitOps deployments using ArgoCD with Auto Sync, Self-Healing, and Helm-based application delivery  
+✔️ CI/CD pipelines with GitHub Actions, SonarCloud Quality Gates, and automated image publishing to Amazon ECR  
+✔️ Secure Kubernetes integrations using AWS Load Balancer Controller and IRSA (IAM Roles for Service Accounts)  
+✔️ Real-time deployment notifications through Slack for pipeline and release visibility  
 
-🔗 [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform) · [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy) · [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
+🔗 [vprofile-app](https://github.com/josephmj0303/vprofile-app) · [vprofile-gitops](https://github.com/josephmj0303/vprofile-gitops) · [vprofile-gitops-infra](https://github.com/josephmj0303/vprofile-gitops-infra)
 
 ---
 
