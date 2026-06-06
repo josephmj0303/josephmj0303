@@ -87,7 +87,7 @@ Full microservices platform (Node.js, Java, Angular) deployed on k3s.
 ---
 
 ### 🔄 VProfile GitOps EKS Platform
-Terraform | AWS EKS | ArgoCD | GitHub Actions | Helm | Amazon ECR | SonarCloud | Slack
+**Terraform | AWS EKS | ArgoCD | GitHub Actions | Helm | Amazon ECR | SonarCloud | Slack**
 
 Production-grade GitOps platform implementing Infrastructure as Code, Continuous Delivery, and Kubernetes automation on AWS.
 
