@@ -21,11 +21,12 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ## 💼 Professional Highlights
 
-### 🚀 Freelance DevOps Engineer (2025 – Present)
+### 🚀 DevOps Consultant — Independent Consulting  (2025 – Present)
 - Managing a production-grade AWS e-commerce platform
 - Infrastructure provisioned using Terraform
 - GitHub Actions based CI/CD with zero-downtime deployments
 - CloudFront, ALB, EC2, RDS and VPC based architecture
+- Containerized CRM platform using .NET, MSSQL, Docker Compose and Nginx.
 - Production support, monitoring and operational improvements
 
 
