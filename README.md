@@ -64,7 +64,7 @@ Docker • Kubernetes (EKS, k3s) • Helm • Amazon ECR • Ingress Controllers
 GitHub Actions • Jenkins • GitLab CI • ArgoCD • SonarQube • Nexus Repository
 
 ### 📊 Observability & Security
-Prometheus • Grafana • Alertmanager • CloudWatch • Trivy (Container Scanning)
+Prometheus • Grafana • Loki • CloudWatch • Trivy (Container Scanning)
 
 ### 🖥️ OS, Scripting & Databases
 Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
