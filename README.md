@@ -21,7 +21,7 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ## 💼 Professional Highlights
 
-### 🚀 DevOps Consultant — Independent Consulting  (2025 – Present)
+### 🚀 DevOps Engineer — Independent Consulting  (2025 – Present)
 - Managing a production-grade AWS e-commerce platform
 - Infrastructure provisioned using Terraform
 - GitHub Actions based CI/CD with zero-downtime deployments
@@ -198,11 +198,11 @@ Production-grade monitoring setup for a Python Flask application.
 
 ## 📜 Certifications & Training
 
-🏆 AWS DevOps with Projects - Udemy
+🏆 AWS DevOps Engineering (Training) - MNP Technologies
 
-🏆 Azure Administrator (AZ-104 Training) - Pragathi Technologies
+🏆 DevOps Beginners to Advanced with Projects - Udemy
 
-🏆 VMware vSphere ESXi & vCenter Administration - Udemy
+🏆 Azure Administrator (Training Program) - Pragathi Technologies
 
 🏆 Computer Hardware & Networking - Jetking
 
