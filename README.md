@@ -21,23 +21,14 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ## 💼 Professional Highlights
 
-### 🚀 DevOps Engineer — Independent Consulting  (2025 – Present)
-- Managing a production-grade AWS e-commerce platform
-- Infrastructure provisioned using Terraform
-- GitHub Actions based CI/CD with zero-downtime deployments
-- CloudFront, ALB, EC2, RDS and VPC based architecture
-- Containerized CRM platform using .NET, MSSQL, Docker Compose and Nginx.
-- Production support, monitoring and operational improvements
+### 🚀 DevOps Engineer — Luna Software Solutions (Dec 2023 – Present)
 
-
-### ⚙️ DevOps Engineer — MTG Techsoft (2023 – 2025)
-- Built CI/CD pipelines using GitHub Actions, Jenkins, SonarQube and Nexus
-- Deployed containerized applications on Kubernetes (EKS & k3s)
-- Implemented GitOps workflows using ArgoCD
-- Automated AWS and Azure infrastructure using Terraform
-- Implemented monitoring and alerting with Prometheus, Grafana and CloudWatch
-- Improved deployment consistency and reduced manual operational effort
-
+- Designing and maintaining CI/CD pipelines using GitHub Actions, Jenkins, SonarQube, and Nexus to automate application delivery.
+- Provisioning and managing AWS and Azure infrastructure using Terraform, including VPC, EC2, ALB, EKS, RDS, CloudFront, and networking components.
+- Deploying and managing containerized applications using Docker, Kubernetes (EKS & k3s), Helm, and ArgoCD with GitOps practices.
+- Delivering cloud migration and modernization projects, including production-grade AWS platforms and containerized .NET CRM solutions with Microsoft SQL Server, Docker Compose, Nginx, and SSL/TLS.
+- Implementing centralized monitoring, logging, and alerting using Prometheus, Grafana, Loki, Grafana Alloy, and CloudWatch.
+- Developing reusable Infrastructure as Code modules, deployment automation, and operational standards to improve scalability, reliability, and production operations.
 ---
 
 ## 🧠 What I Do
