@@ -21,7 +21,7 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 
 ## 💼 Professional Highlights
 
-### 🚀 DevOps Engineer — Luna Software Solutions (Dec 2023 – Present)
+### 🚀 DevOps Engineer — Luna Software Solutions (Dec 2023 – Aug 2026)
 
 - Designing and maintaining CI/CD pipelines using GitHub Actions, Jenkins, SonarQube, and Nexus to automate application delivery.
 - Provisioning and managing AWS and Azure infrastructure using Terraform, including VPC, EC2, ALB, EKS, RDS, CloudFront, and networking components.
