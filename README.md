@@ -112,7 +112,7 @@ Production-style AWS infrastructure with containerised .NET microservices.
 
 Scalable, highly available AWS architecture designed for fault tolerance.
 
-✔️ EC2, ALB, S3 + CloudFront CDN, RDS PostgreSQL  
+✔️ EC2, ALB, S3, CloudFront CDN, RDS PostgreSQL  
 ✔️ Full Terraform IaC for all AWS resources  
 ✔️ VPC with public/private subnets, security groups, NAT gateway  
 ✔️ GitHub Actions CI/CD for zero-touch deployments  
