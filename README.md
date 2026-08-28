@@ -64,7 +64,7 @@ Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
 
 ## 🏗 Featured DevOps Projects
 
-🔥 AI DevOps Platform
+### 🔥 AI DevOps Platform
 
 AI-Powered DevOps | FastAPI | React | Kubernetes | Redis | PostgreSQL | Ollama
 
