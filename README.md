@@ -66,13 +66,13 @@ Linux • Bash • Python • PostgreSQL • MySQL • MSSQL
 
 ### 🔥 AI DevOps Platform
 
-AI-Powered DevOps | FastAPI | React | Kubernetes | Redis | PostgreSQL | Ollama
+**AI-Powered DevOps | FastAPI | React | Kubernetes | Redis | PostgreSQL | Ollama**
 
 AI-powered DevOps platform that combines LLM-assisted operations with Kubernetes inspection, log analysis, and controlled DevOps actions through a web interface.
 
-✔️ AI-assisted log analysis and natural-language DevOps command interpretation
-✔️ Kubernetes inspection and controlled operational actions with persistent action history
-✔️ FastAPI backend with React dashboard and PostgreSQL/Redis integration
+✔️ AI-assisted log analysis and natural-language DevOps command interpretation  
+✔️ Kubernetes inspection and controlled operational actions with persistent action history  
+✔️ FastAPI backend with React dashboard and PostgreSQL/Redis integration  
 ✔️ Health monitoring and service observability for application, database, Redis, and AI services
 
 🔗 [ai-devops-platform](https://github.com/josephmj0303/ai-devops-platform)
