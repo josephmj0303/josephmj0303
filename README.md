@@ -13,7 +13,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 
-I am a DevOps Engineer with 3 years of hands-on production experience in designing, automating, and deploying cloud-native applications and infrastructure across AWS and Azure environments.
+I am a DevOps Engineer with 5+ years of combined Cloud & DevOps production experience in designing, automating, and deploying cloud-native applications and infrastructure across AWS and Azure environments.
 
 My work focuses on building scalable platforms using Kubernetes, Infrastructure as Code, CI/CD automation, GitOps, observability, and cloud-native best practices.
 
@@ -29,6 +29,13 @@ My work focuses on building scalable platforms using Kubernetes, Infrastructure 
 - Delivering cloud migration and modernization projects, including production-grade AWS platforms and containerized .NET CRM solutions with Microsoft SQL Server, Docker Compose, Nginx, and SSL/TLS.
 - Implementing centralized monitoring, logging, and alerting using Prometheus, Grafana, Loki, Grafana Alloy, and CloudWatch.
 - Developing reusable Infrastructure as Code modules, deployment automation, and operational standards to improve scalability, reliability, and production operations.
+
+### ☁️ Cloud Administrator — BCM Educational Institutions (May 2021 – Nov 2023)
+- Administered AWS and Azure cloud environments, managing virtual machines, networking, storage, DNS, and cloud services.
+- Managed Windows and Linux servers, including system configuration, patching, user administration, backup, and troubleshooting.
+- Configured and maintained Microsoft Azure services, including Virtual Machines, Virtual Networks, Storage Accounts, and related infrastructure.
+- Managed AWS services such as EC2, VPC, S3, IAM, and CloudWatch, ensuring availability, security, and operational stability.
+- Monitored infrastructure performance, investigated incidents, and performed root-cause analysis and operational troubleshooting to maintain reliable IT services.
 ---
 
 ## 🧠 What I Do
