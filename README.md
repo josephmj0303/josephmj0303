@@ -229,7 +229,7 @@ Production-grade monitoring setup for a Python Flask application.
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephmj0303\&theme=radical)
 
-
+![Activity Graph](./assets/activity-graph.svg)
 
 ---
 
